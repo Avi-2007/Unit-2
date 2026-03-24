@@ -34,7 +34,7 @@ class Manager(Person, Employee):
 
 # Creating an object of Manager class
 manager1 = Manager(
-    name="Shivaji",
+    name="Avishkar",
     age=20,
     employee_id="M111",
     salary=185000,
